@@ -1,7 +1,8 @@
-package droidfreak.com.simplekeyboard
+package droidfreak.com.simplekeyboard.view
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import droidfreak.com.simplekeyboard.R
 
 class MainActivity : AppCompatActivity() {
 

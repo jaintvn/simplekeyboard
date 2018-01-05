@@ -1,0 +1,5 @@
+<vector android:height="24dp" android:viewportHeight="1000.0"
+    android:viewportWidth="1000.0" android:width="24dp" xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/button_colors" android:pathData="M10,101.9L10,101.9L10,101.9z"/>
+    <path android:fillColor="@color/button_colors" android:pathData="M316.3,285.6L10,591.9l306.3,306.3H990V285.6H316.3L316.3,285.6zM928.8,836.9H341.6l-245,-245l245,-245h587.1V836.9zM561.3,775.6l122.5,-122.5l122.5,122.5l61.3,-61.3L745,591.9l122.5,-122.5l-61.3,-61.3L683.8,530.6L561.3,408.1L500,469.4l122.5,122.5L500,714.4L561.3,775.6z"/>
+</vector>

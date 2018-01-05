@@ -6,8 +6,8 @@
 
     <View
         android:layout_width="match_parent"
-        android:layout_height="2px"
-        android:background="@color/text_colors" />
+        android:layout_height="10dp"
+        android:background="@drawable/keyboard_shadow" />
 
     <droidfreak.com.simplekeyboard.view.SimpleKeyboardView
         android:id="@+id/keyboard_view"

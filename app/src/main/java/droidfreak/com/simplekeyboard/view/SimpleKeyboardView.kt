@@ -11,6 +11,9 @@ import android.media.AudioManager
 import android.support.v4.content.ContextCompat
 import android.view.KeyEvent
 
+/**
+ * Created by DroidFreak
+ */
 class SimpleKeyboardView(context: Context, attrs: AttributeSet) : KeyboardView(context, attrs), OnKeyboardActionListener {
 
 
@@ -83,6 +86,9 @@ class SimpleKeyboardView(context: Context, attrs: AttributeSet) : KeyboardView(c
         keyboardView.keyboard = mQwertyKeyboard
     }
 
+    /**
+     * To Play sound on press of key.
+     */
     private fun playClick(keyCode: Int) {
         val am = context.getSystemService(Context.AUDIO_SERVICE) as AudioManager
         when (keyCode) {
@@ -93,6 +99,9 @@ class SimpleKeyboardView(context: Context, attrs: AttributeSet) : KeyboardView(c
         }
     }
 
+    /**
+     * Handler for Shift key actions.
+     */
     private fun controlShiftButton() {
 
         val currentKeyboard = keyboardView.keyboard

@@ -1,4 +1,4 @@
-# simplekeyboard - Kotlin
+# Simple Keyboard - Kotlin
 
 ![](https://media.giphy.com/media/xUNd9GphyBYxmiqsQE/giphy.gif)
 

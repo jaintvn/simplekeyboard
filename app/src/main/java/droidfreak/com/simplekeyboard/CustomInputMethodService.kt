@@ -5,7 +5,7 @@ import android.view.View
 import droidfreak.com.simplekeyboard.view.SimpleKeyboardView
 
 class CustomInputMethodService : InputMethodService() {
-    
+
     private lateinit var mKeyboardView: SimpleKeyboardView
 
     override fun onCreateInputView(): View {

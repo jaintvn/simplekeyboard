@@ -1,4 +1,4 @@
-# Simple Keyboard - Kotlin
+# Simple Keyboard - Kotlin (No longer maintained)
 
 ![](https://media.giphy.com/media/xUNd9GphyBYxmiqsQE/giphy.gif)
 
